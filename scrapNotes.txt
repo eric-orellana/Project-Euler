@@ -1,3 +1,0 @@
-take the number then divide by the lowest prime number
-keep trying to divide the number by the next highest prime
-Keep going until the number itelf is prime which we can see if it is coming up in that same thread
